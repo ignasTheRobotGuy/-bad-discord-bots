@@ -1,4 +1,4 @@
-# NzU2ODI4MDk1NTExNTI3NDk0.X2XhFw.6yVwZwYXYplRFgY7d8xOhYqpslU
+
 import time as t
 import discord
 from discord.ext import commands
@@ -30,4 +30,4 @@ async def remind(ctx, reminder, timemin):
     t.sleep(slep * 60)
     await ctx.send(reminder)
 
-client.run("NzU2ODI4MDk1NTExNTI3NDk0.X2XhFw.6yVwZwYXYplRFgY7d8xOhYqpslU")
+client.run("token")
