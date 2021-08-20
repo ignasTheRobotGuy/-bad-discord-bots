@@ -1,5 +1,4 @@
 
-# token - NzU2ODI4MDk1NTExNTI3NDk0.X2XhFw.6yVwZwYXYplRFgY7d8xOhYqpslU
 
 import discord
 from discord.ext import commands
